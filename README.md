@@ -1,0 +1,1 @@
+# Supabase-Open-Source-Hackathon
